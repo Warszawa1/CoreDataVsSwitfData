@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This README provides an objective comparison between Apple's two data persistence frameworks: CoreData and SwiftData. Both have their strengths and ideal use cases depending on your project requirements.
+This README provides a comparison between Apple's two data persistence frameworks: CoreData and SwiftData. Both have their strengths and ideal use cases depending on your project requirements.
 
 ## Overview Comparison
 
